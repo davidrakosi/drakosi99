@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning ReactJS & NodeJS
 - 👯 I’m looking to collaborate on any JavaScript Project
 - 💬 Ask me about JavaScript
-- 📫 Reach me at: `[mailto](mailto:david@davidrakosi.com)`
+- 📫 Reach me at: [mailto](mailto:david@davidrakosi.com)
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
