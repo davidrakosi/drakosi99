@@ -8,9 +8,9 @@
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning ReactJS & NodeJS
 - 👯 I’m looking to collaborate on any JavaScript Project
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: ...
+<!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
