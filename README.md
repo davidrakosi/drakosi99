@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning && teaching the MERN Stack @CleverProgrammer
 <!-- - 👯 I’m looking to collaborate on any JavaScript Project -->
 - 💬 Ask me about JavaScript && MERN Stack
-- 📫 Reach out to me at [`david@davidrakosi.com`](mailto:david@davidrakosi.com)
+- 📫 Reach out to me at [`contact@davidrakosi.com`](mailto:david@davidrakosi.com)
 - 💼 See my full portfolio at [`davidrakosi.com`](https://davidrakosi.com)
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
