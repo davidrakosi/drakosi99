@@ -14,18 +14,20 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
+<br>
 <details>
   <summary>GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=drakosi99&show_icons=true&hide_border=true" />
 
 </details>
+<br>
 <details>
   <summary>GitHub Stats</summary>
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=drakosi99&" alt="drakosi99" /></p>
 
 </details>
+<br>
 <details>
   <summary>Most Used Languages</summary>
 
