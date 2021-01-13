@@ -28,7 +28,7 @@
 <div>
 <details>
   <summary>GitHub History</summary>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=" alt="drakosi99" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drakosi99&" alt="drakosi99" /></p>
 
 </details>
 </div>
