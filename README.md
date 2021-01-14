@@ -38,5 +38,5 @@
   <summary>Most Used Languages</summary>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drakosi99&show_icons=true&locale=en&layout=compact" alt="drakosi99" /></p>
-</details>
+</details>*
 </div>
