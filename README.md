@@ -33,12 +33,6 @@
 </details>
 </div>
 
-:::warning
-
-This is a warning
-
-:::
-
 <div>
 <details>
   <summary>Most Used Languages</summary>
