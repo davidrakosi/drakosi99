@@ -18,15 +18,6 @@
 
 <div>
 <details>
-  <summary>GitHub Stats</summary>
-
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=drakosi99&show_icons=true&hide_border=true" />
-
-</details>
-</div>
-
-<div>
-<details>
   <summary>GitHub History</summary>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drakosi99&" alt="drakosi99" /></p>
 .
