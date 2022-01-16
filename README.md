@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/f4abd1ac-55d8-42f6-ac6c-6e066e5d4f58.svg)](https://wakatime.com/@f4abd1ac-55d8-42f6-ac6c-6e066e5d4f58)
 
 <!-- **drakosi99/drakosi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
